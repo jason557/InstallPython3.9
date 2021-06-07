@@ -1,0 +1,8 @@
+
+
+
+Install Python 3.9 in Ubuntu 20.04 by install manager
+Install Python 3.9 in Ubuntu 20.04 from source
+   
+https://www.python.org/ftp/python/
+https://www.youtube.com/watch?v=Z6YNQi-ZE9I&t=20s
